@@ -1,0 +1,95 @@
+/* Estilo base para el menú */
+ul.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #333; /* Color de fondo del menú */
+  }
+  
+  /* Estilo para los elementos de la lista */
+  ul.menu li {
+    display: inline;
+    margin-right: 20px; /* Espacio entre elementos de menú */
+  }
+  
+  /* Estilo para los enlaces del menú */
+  ul.menu li a {
+    text-decoration: none;
+    color: #fff; /* Color de texto para los enlaces */
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Cambiar estilo de enlace al pasar el ratón sobre él */
+  ul.menu li a:hover {
+    color: #ff9900; /* Color de texto al pasar el ratón sobre el enlace */
+  }
+
+  img {  /*imagenes estilos*/
+    max-width: 50%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+ ul.historia  {
+    margin-left: 40px;
+    margin-bottom: 8px;
+    margin-right: 40px ;
+    text-decoration: none;
+    color: black;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+
+  }
+  
+  .logito {
+    margin-top: 20px;
+    width: 30%;
+  }
+
+  .consuelo {
+    margin: 30px;
+    width: 25%;
+
+  }
+  
+/* Estilo para las etiquetas de los campos */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+
+/* Estilo para los campos de entrada */
+  input[type="text"],
+  input[type="email"] {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+/* Estilo para el botón de envío */
+  input[type="submit"] {
+    background-color: #d55b0e;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+/* Estilo para el botón de envío al pasar el ratón por encima */
+  input[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+
+  .fa {
+    width: 40px;
+    color:#d55b0e;
+  }
+
+  .camare{
+    color:#d55b0e;
+  }

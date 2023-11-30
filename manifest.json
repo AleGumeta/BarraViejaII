@@ -1,0 +1,53 @@
+{
+    "short_name": "Pedidos",
+    "name": "Barra Vieja Restaurante",
+    "start_url": "index.html",
+    "background_color":"#bfbebd",
+    "theme_color": "#c95829",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "img/logo.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+      ]
+
+
+}
